@@ -2,7 +2,7 @@
 
 This android librray checks whether the device has the active internet connection or not. Based on the result it shows snackbar in the bottom of the app.
 
-![Internet Connected](/images/internet.jpg)
+![Internet Connected](/images/internet.png)
 
 
 ## How to Add in your project?
