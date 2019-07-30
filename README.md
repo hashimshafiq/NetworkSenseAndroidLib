@@ -4,10 +4,10 @@ This android librray checks whether the device has the active internet connectio
 
 ## Images
 
-![Internet Not Connected](/images/no-internet.jpg | height = 100)
+![Internet Not Connected](/images/no-internet.jpg)
 
 
-![Internet Connected](/images/connected.jpg | height = 100)
+![Internet Connected](/images/connected.jpg)
 
 
 ## How to Add in your project?
