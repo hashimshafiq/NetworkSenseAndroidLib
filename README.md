@@ -1,4 +1,4 @@
-# NetworkSenseAndroidLib
+# NetworkSenseAndroidLib [![](https://jitpack.io/v/hashimshafiq/NetworkSenseAndroidLib.svg)](https://jitpack.io/#hashimshafiq/NetworkSenseAndroidLib)
 
 This android librray checks whether the device has the active internet connection or not. Based on the result it shows snackbar in the bottom of the app.
 
